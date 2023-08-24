@@ -10,7 +10,7 @@ public class DemooneEurekaServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemooneEurekaServerApplication.class, args);
-	System.out.println("Server Started");
+	System.out.println("Dhananjay Eureka Server Started");
 	}
  
 }
